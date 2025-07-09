@@ -6,7 +6,7 @@ $config['host'] = "localhost";
 $config['dbuser'] = "root";
 $config['dbpass'] = '';
 
-define('BASE_URL', 'http://localhost/cinehub.com/');
+define('BASE_URL', 'http://localhost/cursophp.com/');
 
 global $db;
 
